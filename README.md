@@ -24,4 +24,8 @@ MFC0, MTC0 }
 
 ## 声明
 
-本人不对抄袭、不当使用该代码产生的后果负责。This project comes with ABSOLUTELY NO WARRANTY.
+本人不对抄袭、不当使用该代码产生的后果负责。本人只提供代码参考，强烈不建议为了提交作业而抄袭、不当使用该项目。This project comes with ABSOLUTELY NO WARRANTY.
+
+## 致谢
+
+该代码有部分逻辑受到了历年学长学姐代码的启发，同时也在与同学讨论的过程中逐渐完善了代码。在此对历年来学长学姐和同学的指导表示衷心的感谢。
